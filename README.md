@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karthikdv18
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate with enthusiast developers to share new ideas
+- 💞️ I’m looking to collaborate with enthusiast developers to work on projects.
 - 📫 How to reach me karthikdv018@gmail.com
 
 <!---
